@@ -1,0 +1,48 @@
+fc00  7700
+0  0
+Collision
+
+0  2b00
+0  0
+Collision
+
+0  0
+9d00  100
+Collision
+
+0  6b00
+0  0
+Collision
+
+6300  0
+0  9e00
+Collision
+
+5000  3600
+7100  ee00
+Collision
+
+d200  4900
+0  9700
+Collision
+
+0  0
+0  e600
+Collision
+
+0  5a00
+0  0
+Collision
+
+ca00  0
+0  4f00
+Collision
+
+100  9000
+0  0
+Collision
+
+ac00  0
+1700  0
+Collision
+
